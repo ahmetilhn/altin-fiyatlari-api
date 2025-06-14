@@ -2,6 +2,8 @@
 
 Toplamda **38.5 milyonun** üzerinde geçmişe yönelik altın fiyat verisine ücretsiz bir şekilde erişebilirsiniz. Borsanın açık olduğu günlerde her 1 saniyede bir veri miktarı artmaktadır.
 
+> Gramvey Kapalıçarşı'daki altın fiyatlarını referans alır!
+
 Hem **canlı (socket)** hem de **geçmişe yönelik** altın fiyatları için kullanabileceğiniz Gramvey tarafından sunulan ücretsiz bir hizmettir.
 
 ### Önizleyin
