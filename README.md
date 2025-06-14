@@ -1,6 +1,6 @@
 # Altın Fiyatları API ([Gramvey](https://www.gramvey.com/))
 
-Toplamda 48 milyonun üzerinde geçmişe yönelik altın fiyat verisine ücretsiz bir şekilde erişebilirsiniz. (Her 2 saniyede bir bu sayı artmaktadır.)
+Toplamda 38.5 milyonun üzerinde geçmişe yönelik altın fiyat verisine ücretsiz bir şekilde erişebilirsiniz. (Her 2 saniyede bir bu sayı artmaktadır.)
 
 Hem **canlı (socket)** hem de **geçmişe yönelik** altın fiyatları için kullanabileceğiniz Gramvey tarafından sunulan ücretsiz bir hizmettir.
 
